@@ -26,7 +26,7 @@ section {
 .splash {
     height: 100vh;
     position: relative;
-    background-image: url('https://images.pexels.com/photos/3098972/pexels-photo-3098972.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0623ef83810423.5d4859d670d9e.jpg');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -73,4 +73,18 @@ section {
     color: #fff;
     font-size: 18px;
     margin: 48px 0 0 0;
+}
+
+/* Intro */
+.intro {
+    background: #fff;
+}
+
+.intro p {
+    width: 70%;
+    margin: 0 auto;
+    padding: 48px 0;
+    font-size:  24px;
+    border-top: 1px solid #f1c40f;
+    border-bottom: 1px solid #f1c40f; 
 }
