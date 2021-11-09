@@ -156,3 +156,22 @@ section {
     padding: 36px 0 36px 55%;
     text-align: left;
 }
+
+/* Footer */
+.page-footer {
+    background-color: black;
+    color: #fff;
+    height: 200px;
+    position: relative;
+}
+
+.page-footer .section-title {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
+
